@@ -1,0 +1,25 @@
+{
+  "name": "tippecanoe-modularize",
+  "version": "1.0.0",
+  "description": "A test to check whether we can use Tippecanoe for dividing RFC 8142 into z=6 modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/tippecanoe-modularize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/tippecanoe-modularize/issues"
+  },
+  "homepage": "https://github.com/hfu/tippecanoe-modularize#readme",
+  "dependencies": {
+    "@mapbox/geojson-area": "^0.2.2",
+    "config": "^3.0.1",
+    "hjson": "^3.1.2"
+  }
+}
